@@ -1,11 +1,7 @@
-1 # Screenshot OCR Note-Taker
+ # Screenshot OCR Note-Taker
     
      ## Overview
-     This is a simple yet powerful desktop application designed to streamline
-      note-taking from presentations, documents, or any on-screen content. It allows
-      you to quickly capture a specific region of your screen, extract the text from
-      it using Optical Character Recognition (OCR), and automatically copy that text
-      to your clipboard.
+     This is a simple yet powerful desktop application designed to streamline note-taking from presentations, documents, or any on-screen content. It allows you to quickly capture a specific region of your screen, extract the text from it using Optical Character Recognition (OCR), and automatically copy that text to your clipboard.
     
      ## Features
      *   **Interactive Region Selection:** Just like a snipping tool, you can click
@@ -24,14 +20,10 @@
       executable, so you don't need to install it separately on other computers.
    
     ## How to Use (Standalone Executable)
-    1.  **Download:** Get the `screenshot_to_text.exe` file from the `dist` folder
-      in this repository.
+    1.  **Download:** Get the `screenshot_to_text.exe` file from the `dist` folder in this repository.
     2.  **Run:** Double-click the `screenshot_to_text.exe` file.
-    3.  **Select Area:** Your screen will dim slightly. Click and drag your mouse
-      to select the region containing the text you want to capture.
-    4.  **Paste:** Once you release the mouse, the extracted text will be
-      automatically copied to your clipboard. You can now paste it into your favorite
-      note-taking app (e.g., Notepad, Word, OneNote, Obsidian).
+    3.  **Select Area:** Your screen will dim slightly. Click and drag your mouse to select the region containing the text you want to capture.
+    4.  **Paste:** Once you release the mouse, the extracted text will be automatically copied to your clipboard. You can now paste it into your favorite note-taking app (e.g., Notepad, Word, OneNote, Obsidian).
    
     ## Technologies Used
     *   **Python:** The core programming language.
